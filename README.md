@@ -1,1 +1,1 @@
-# StrapiNextBasic
+# Siehe NVSS-master!
