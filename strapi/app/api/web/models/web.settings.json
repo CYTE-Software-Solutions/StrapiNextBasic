@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "webs",
+  "info": {
+    "name": "Web",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "HomeText": {
+      "type": "richtext",
+      "required": true
+    },
+    "HomeSecond": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
